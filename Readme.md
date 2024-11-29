@@ -65,8 +65,8 @@ This is a personal practice repository. However, feel free to:
 
 If you have suggestions or want to discuss solutions, reach out to me:
 
-- **Email**: [Email ME (reddyindra843@gmail.com)]
-- **LinkedIn**: [Indra Reddy(https://www.linkedin.com/in/indrareddy/)]    
+- **Email**: [Email ME] (reddyindra843@gmail.com)
+- **LinkedIn**: [Indra Reddy](https://www.linkedin.com/in/indrareddy/)   
 
 ---
 
