@@ -10,6 +10,7 @@ public class program002 {
         } else {
             System.out.println("Odd number");
         }
+        scan.close();
 
     }
 }
