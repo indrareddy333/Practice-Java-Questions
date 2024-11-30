@@ -12,5 +12,6 @@ public class Salarybonus {
             System.out.println("Bonus Amount : " + 2500);
             System.out.println("Total amount : " + (num + 2500));
         }
+        scan.close();
     }
 }
