@@ -9,6 +9,7 @@ public class Printing_table {
         int num = scan.nextInt();
         for (int i = 1; i <= 10; i++) {
             System.out.println(num + " X " + i + " = " + num * i);
+            scan.close();
         }
     }
 }
