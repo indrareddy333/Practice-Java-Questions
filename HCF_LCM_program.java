@@ -24,6 +24,7 @@ public class HCF_LCM_program {
         }
         hcf = (num1 * num2) / lcm;
         System.out.println("HCF is = " + hcf);
+        scan.close();
 
     }
 
