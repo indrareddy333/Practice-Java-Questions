@@ -11,6 +11,7 @@ public class SimpleInterest {
         float T = scan.nextInt();
         float Si = ((P * R * T) / 100);
         System.out.println("Simple Interest = " + Si + "%");
+        scan.close();
 
     }
 }
