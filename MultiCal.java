@@ -25,6 +25,7 @@ public class MultiCal {
         } else {
             System.err.println("Something went wrong ! Try Again :)");
         }
+        scan.close();
 
     }
 }
